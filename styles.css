@@ -1,6 +1,12 @@
 h1{color: MidnightBlue; 
-font-family: 'Dosis', sans-serif; }
-h2{font-size: 150%;
+font-family: 'Dosis', sans-serif;
+font-size: 150%; 
+}
+
+h2{ color: MidnightBlue; 
+font-size: 75; } 
+
+h3{font-size: 50;
 	color: LightSteelBlue; }
 
 body {
@@ -9,5 +15,9 @@ body {
 	font-size: 18pt;
 	font-family: 'Raleway', sans-serif;
 	}
+A {color: MidnightBlue; }
 
-table {border: 1px solid black} 
+
+
+
+ 

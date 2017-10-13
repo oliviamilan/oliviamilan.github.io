@@ -1,2 +1,38 @@
-h1{color: MidnightBlue; 
-font-family: 'Dosis', sans-serif; }
+h1{ color: Black; 
+font-family: 'Dosis', sans-serif;
+font-size: 200%  } 
+
+h2{color: MidnightBlue; 
+font-family: 'Dosis', sans-serif;
+font-size: 450% 
+}
+
+h3{font-size: 200%; 
+	background: White;
+	color: LightSteelBlue;
+	font-size: 18pt;
+	font-family: 'Raleway', sans-serif;
+	}
+h4{ font-size: 200%; 
+	background: White; 
+	color: MidnightBlue; 
+	font-family: 'Raleway', sans-serif; 
+	} 
+h5{ font-size: 200%; 
+	background: White; 
+	color: MidnightBlue; 
+	font-family: 'Raleway', sans-serif; 
+	}
+h6{ font-size: 200%; 
+	background: White; 
+	color: MidnightBlue; 
+	font-family: 'Raleway', sans-serif; 
+	}
+h7{ font-size: 200%; 
+	background: White; 
+	color: MidnightBlue; 
+	font-family: 'Raleway', sans-serif; 
+	}
+
+A{ font-size: 100%; 
+color: MidnightBlue; } 
